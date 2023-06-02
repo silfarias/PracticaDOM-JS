@@ -1,0 +1,8 @@
+.cambio-color {
+    color: purple;
+  }
+  
+  .cambio-color.orange {
+    color: orange;
+  }
+  
